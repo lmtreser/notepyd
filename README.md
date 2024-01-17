@@ -9,4 +9,5 @@ Un simple clon del notepad escrito, con fines educativos, en Python. Utiliza la 
 
 ## ToDo
 
-- La idea en un segundo paso es añadir soporte a [Markdown](https://es.wikipedia.org/wiki/Markdown).
+- Añadir soporte a [Markdown](https://es.wikipedia.org/wiki/Markdown).
+- Añadir una barra de herramientas con las opciones más utilizadas.
