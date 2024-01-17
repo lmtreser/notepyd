@@ -1,0 +1,17 @@
+What is guizero?
+
+guizero is a Python 3 library for creating simple GUIs.
+It is designed to allow new learners to quickly and easily create GUIs for their programs.
+
+https://lawsie.github.io/guizero/
+
+-------
+from guizero import App, Text, PushButton
+
+app = App(title="guizero")
+
+intro = Text(app, text="Have a go with guizero and see what you can create.")
+ok = PushButton(app, text="Ok")
+
+app.display()
+-------
