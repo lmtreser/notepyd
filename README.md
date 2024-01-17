@@ -1,8 +1,12 @@
 # Notepyd
 
-Un simple clon del notepad escrito en Python con la biblioteca guizero. La idea en un segundo paso es añadir soporte a [Markdown](https://es.wikipedia.org/wiki/Markdown).
+Un simple clon del notepad escrito, con fines educativos, en Python. Utiliza la biblioteca guizero para _dibujar_ la interfaz grafica.
 
 ## Dependencias y herramientas
 
-- [guizero](https://lawsie.github.io/guizero/)
+- [Biblioteca guizero](https://lawsie.github.io/guizero/)
 - [Pencil Project](https://pencil.evolus.vn/)
+
+## ToDo
+
+- La idea en un segundo paso es añadir soporte a [Markdown](https://es.wikipedia.org/wiki/Markdown).
