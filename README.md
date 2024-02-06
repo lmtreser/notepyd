@@ -3,6 +3,7 @@
 Un simple clon del notepad escrito, con fines educativos, en Python. Utiliza la biblioteca guizero para _dibujar_ la interfaz grafica.
 
 ![](./layout/notepad_screenshot.png)
+*Captura de pantalla en Ubuntu 22.04*.
 
 ## Dependencias y herramientas
 
