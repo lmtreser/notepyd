@@ -2,6 +2,8 @@
 
 Un simple clon del notepad escrito, con fines educativos, en Python. Utiliza la biblioteca guizero para _dibujar_ la interfaz grafica.
 
+![](./layout/notepad_screenshot.png)
+
 ## Dependencias y herramientas
 
 - [Biblioteca guizero](https://lawsie.github.io/guizero/)
