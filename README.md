@@ -12,8 +12,8 @@ Un simple clon del notepad escrito, con fines educativos, en Python. Utiliza la 
 
 ## ToDo
 
-- Añadir soporte a [Markdown](https://es.wikipedia.org/wiki/Markdown).
-- Añadir una barra de herramientas con las opciones más utilizadas.
+- [ ] Añadir soporte a [Markdown](https://es.wikipedia.org/wiki/Markdown).
+- [ ] Añadir una barra de herramientas con las opciones más utilizadas.
 
 ## Licencia
 
